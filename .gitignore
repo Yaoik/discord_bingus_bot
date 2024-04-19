@@ -1,2 +1,5 @@
 my_token.py
-**.pyc
+**.log
+**.vscode
+**__pycache__
+**/logs
